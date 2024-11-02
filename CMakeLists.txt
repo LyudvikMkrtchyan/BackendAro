@@ -6,12 +6,7 @@ set(SOURCES
     ./implement/evants/carpetsManipulation/carpetsManipulation.cpp
     ./implement/evants/carpetsManipulation/carpetsManipulationGetters.cpp
     ./implement/evants/carpetsManipulation/carpetsManipulationSetters.cpp
-<<<<<<< HEAD
     ./implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
-    
-
     ./implement/evants/financeEvants/financeGettersEvants.cpp
     
     
