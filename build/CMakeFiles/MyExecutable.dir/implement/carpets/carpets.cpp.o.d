@@ -173,7 +173,6 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o: \
  /usr/include/mysql/mysql_version.h /usr/include/mysql/mysql_time.h \
  /usr/include/mysql/errmsg.h \
  /home/lyudvik/C++/Project/BackendQt/implement/carpets/../../includes/carpets/carpetsGetters.hpp \
- /home/lyudvik/C++/Project/BackendQt/implement/carpets/../../includes/carpets/carpetsSetters.hpp \
  /usr/include/cppconn/connection.h /usr/include/c++/12/map \
  /usr/include/c++/12/bits/stl_tree.h \
  /usr/include/c++/12/ext/aligned_buffer.h \
@@ -310,10 +309,8 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o: \
  /usr/include/nlohmann/ordered_map.hpp /usr/include/c++/12/any \
  /usr/include/nlohmann/detail/macro_unscope.hpp \
  /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
  /home/lyudvik/C++/Project/BackendQt/implement/carpets/../../includes/carpets/carpetsGettersForAdmin.hpp \
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
+ /home/lyudvik/C++/Project/BackendQt/implement/carpets/../../includes/carpets/carpetsSetters.hpp \
  /home/lyudvik/C++/Project/BackendQt/implement/carpets/../../includes/carpets/carpetsSearchers.hpp \
  /usr/include/cppconn/datatype.h /usr/include/cppconn/resultset.h \
  /usr/include/cppconn/statement.h

@@ -3,11 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o.d"
   "CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o"
   "CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o.d"
-<<<<<<< HEAD
   "CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGettersForAdmin.cpp.o"
   "CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGettersForAdmin.cpp.o.d"
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   "CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o"
   "CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o.d"
   "CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.o"
@@ -20,11 +17,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulation.cpp.o.d"
   "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGetters.cpp.o"
   "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGetters.cpp.o.d"
-<<<<<<< HEAD
   "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp.o"
   "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp.o.d"
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationSetters.cpp.o"
   "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationSetters.cpp.o.d"
   "CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o"
@@ -51,15 +45,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o.d"
   "CMakeFiles/MyExecutable.dir/implement/time.cpp.o"
   "CMakeFiles/MyExecutable.dir/implement/time.cpp.o.d"
-<<<<<<< HEAD
   "CMakeFiles/MyExecutable.dir/implement/workers/workers.cpp.o"
   "CMakeFiles/MyExecutable.dir/implement/workers/workers.cpp.o.d"
   "CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o"
   "CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o.d"
-=======
-  "CMakeFiles/MyExecutable.dir/implement/workers.cpp.o"
-  "CMakeFiles/MyExecutable.dir/implement/workers.cpp.o.d"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   "MyExecutable"
   "MyExecutable.pdb"
 )

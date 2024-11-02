@@ -1,12 +1,7 @@
 #pragma once
 #include "./carpets/carpets.hpp"
-<<<<<<< HEAD
+
 #include "./workers/workers.hpp"
-#include "time.h"
-=======
-#include "time.h"
-#include "workers.hpp"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 #include "options.hpp"
 #include "salaries.hpp"
 #include "orders.hpp"

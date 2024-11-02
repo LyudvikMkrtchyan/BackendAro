@@ -1,7 +1,7 @@
+#pragma once
 #include <cppconn/connection.h>
 #include <cppconn/prepared_statement.h>
-#include <memory>
-#include "nlohmann/json.hpp"
+
 
 class WorkersGetters{
 public:

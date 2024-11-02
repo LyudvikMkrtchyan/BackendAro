@@ -1,6 +1,5 @@
 #pragma once
 #include "../time.hpp"
-#include "carpetsSetters.hpp"
 #include <cppconn/connection.h>
 #include <cppconn/prepared_statement.h>
 #include <nlohmann/json.hpp>
@@ -34,11 +33,8 @@ public:
     nlohmann::json getActualCarpetForWasher(int washerId);
     std::string getCarpetLocation(std::string code);
     nlohmann::json getCarpetForDeliveriConcretWorker(int workerId);
-<<<<<<< HEAD
     nlohmann::json getWashedCarpetsWithDay(std::string day);
-=======
     nlohmann::json getTodaysWashedCarpets();
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
     nlohmann::json getInDeliveredCarpetsFullInfoFromAddress(nlohmann::json& json);
     double getCarpetPrice(std::string code);
 

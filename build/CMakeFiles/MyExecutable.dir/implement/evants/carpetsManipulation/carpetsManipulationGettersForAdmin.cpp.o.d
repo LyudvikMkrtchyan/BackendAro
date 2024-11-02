@@ -176,7 +176,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipula
  /usr/include/mysql/mysql_version.h /usr/include/mysql/mysql_time.h \
  /usr/include/mysql/errmsg.h \
  /home/lyudvik/C++/Project/BackendQt/implement/evants/carpetsManipulation/../../../includes/evants/carpetsManipulation/../.././carpets/carpetsGetters.hpp \
- /home/lyudvik/C++/Project/BackendQt/implement/evants/carpetsManipulation/../../../includes/evants/carpetsManipulation/../.././carpets/carpetsSetters.hpp \
  /usr/include/cppconn/connection.h /usr/include/c++/12/map \
  /usr/include/c++/12/bits/stl_tree.h \
  /usr/include/c++/12/ext/aligned_buffer.h \
@@ -314,6 +313,7 @@ CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipula
  /usr/include/nlohmann/detail/macro_unscope.hpp \
  /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
  /home/lyudvik/C++/Project/BackendQt/implement/evants/carpetsManipulation/../../../includes/evants/carpetsManipulation/../.././carpets/carpetsGettersForAdmin.hpp \
+ /home/lyudvik/C++/Project/BackendQt/implement/evants/carpetsManipulation/../../../includes/evants/carpetsManipulation/../.././carpets/carpetsSetters.hpp \
  /home/lyudvik/C++/Project/BackendQt/implement/evants/carpetsManipulation/../../../includes/evants/carpetsManipulation/../.././carpets/carpetsSearchers.hpp \
  /home/lyudvik/C++/Project/BackendQt/implement/evants/carpetsManipulation/../../../includes/evants/carpetsManipulation/../.././workers/workers.hpp \
  /home/lyudvik/C++/Project/BackendQt/implement/evants/carpetsManipulation/../../../includes/evants/carpetsManipulation/../.././workers/workersGetters.hpp \

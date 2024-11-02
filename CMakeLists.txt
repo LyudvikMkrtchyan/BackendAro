@@ -26,18 +26,15 @@ set(SOURCES
     ./implement/carpets/carpetsGetters.cpp
     ./implement/carpets/carpetsSetters.cpp
     ./implement/carpets/carpetsSearchers.cpp
-<<<<<<< HEAD
+
     ./implement/carpets/carpetsGettersForAdmin.cpp
     ./implement/workers/workers.cpp
     ./implement/workers/workersGetters.cpp
     
     
     ./implement/salaries.cpp
-=======
     
     ./implement/salaries.cpp
-    ./implement/workers.cpp
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
     ./implement/options.cpp
     ./implement/time.cpp
 )

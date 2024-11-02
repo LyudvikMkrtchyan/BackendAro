@@ -4,20 +4,17 @@
 #include <cppconn/prepared_statement.h>
 #include <cppconn/resultset.h>
 #include <cppconn/statement.h>
-#include <iostream>
-#include <iomanip>
+
 #include <memory>
 #include <nlohmann/detail/conversions/to_chars.hpp>
 #include <nlohmann/json_fwd.hpp>
-#include <sstream>
+
 
 Carpets::Carpets(sql::Connection* conn):CarpetsSetters(conn)
                                         ,CarpetsGetters(conn)
                                         ,CarpetsSearchers(conn)
-<<<<<<< HEAD
+
                                         ,CarpetsGettersForAdmin(conn)
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
                                         ,connection(conn){}
 
 

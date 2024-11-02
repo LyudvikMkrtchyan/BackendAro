@@ -1,9 +1,11 @@
+#ifndef WORKERS_HPP
+#define WORKERS_HPP
+
 #include "workersGetters.hpp"
 
 #include <cppconn/connection.h>
 #include <cppconn/prepared_statement.h>
-#include <memory>
-#include "nlohmann/json.hpp"
+#include <nlohmann/json.hpp>
 
 class Workers:public WorkersGetters{
 public:
@@ -21,3 +23,5 @@ public:
 private:
     sql::Connection* connection;
 };
+
+#endif 

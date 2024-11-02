@@ -2,7 +2,6 @@
 #include <cppconn/prepared_statement.h>
 #include <cppconn/resultset.h>
 #include <memory>
-#include <unordered_map>
 
 DeliveryAddresContent::DeliveryAddresContent():address(""), entrance(""), floor(""), flat(""), phone_number(""),
           delivery_time_min(""), delivery_time_max(""),
@@ -319,25 +318,20 @@ nlohmann::json CarpetsGetters::getCarpetForDeliveriConcretWorker(int workerId){
     }
     return answerJson;
 }
-<<<<<<< HEAD
 nlohmann::json CarpetsGetters::getWashedCarpetsWithDay(std::string day){
-    nlohmann::json answerJson;
-    nlohmann::json date = nlohmann::json::array();
-=======
-nlohmann::json CarpetsGetters::getTodaysWashedCarpets(){
+
     nlohmann::json answerJson;
     nlohmann::json date = nlohmann::json::array();
     std::string todayDate = time->getTodaysDate();
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
+
     std::unique_ptr<sql::PreparedStatement> pstmt(connection->prepareStatement(R"(Select surface, price, code 
                                                                       From Carpets
                                                                       where wash_date=?)"));
 
-<<<<<<< HEAD
+
     pstmt->setString(1, day);
-=======
+
     pstmt->setString(1, todayDate);
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 
     std::unique_ptr<sql::ResultSet> res(pstmt->executeQuery());
     int totalCount = 0;

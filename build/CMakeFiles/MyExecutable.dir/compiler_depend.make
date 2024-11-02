@@ -214,7 +214,6 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o: /home/lyudvik/C++/P
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -382,10 +381,8 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o: /home/lyudvik/C++/P
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /usr/include/cppconn/datatype.h \
   /usr/include/cppconn/resultset.h \
@@ -603,7 +600,6 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o: /home/lyudvi
   /usr/include/mysql/mysql_version.h \
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -773,7 +769,6 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o: /home/lyudvi
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /usr/include/cppconn/resultset.h
 
-<<<<<<< HEAD
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGettersForAdmin.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsGettersForAdmin.cpp \
   /usr/include/stdc-predef.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
@@ -1155,8 +1150,6 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGettersForAdmin.cpp.o: /hom
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /usr/include/cppconn/resultset.h
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsSearchers.cpp \
   /usr/include/stdc-predef.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
@@ -2117,7 +2110,6 @@ CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o: /home/lyudvik/C++/Project/
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -2285,15 +2277,11 @@ CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o: /home/lyudvik/C++/Project/
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -2576,7 +2564,6 @@ CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o: /home/lyudvik/C++/Proje
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -2744,15 +2731,11 @@ CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o: /home/lyudvik/C++/Proje
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -4310,7 +4293,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipula
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -4478,15 +4460,11 @@ CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipula
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -6044,7 +6022,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipula
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -6212,8 +6189,8 @@ CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipula
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
@@ -7774,7 +7751,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipula
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -7943,13 +7919,10 @@ CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipula
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -9507,7 +9480,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipula
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -9675,15 +9647,11 @@ CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipula
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -11241,7 +11209,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o: /home
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -11409,15 +11376,11 @@ CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o: /home
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -12975,7 +12938,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -13143,15 +13105,11 @@ CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -14709,7 +14667,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o: /home/lyudvik/
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -14877,15 +14834,11 @@ CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o: /home/lyudvik/
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -16443,7 +16396,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o: /home/lyudvik/C
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -16611,15 +16563,11 @@ CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o: /home/lyudvik/C
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -18177,7 +18125,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o: /home/lyudvik/C
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -18345,15 +18292,11 @@ CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o: /home/lyudvik/C
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -19911,7 +19854,6 @@ CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o: /home/lyudvik/C++/P
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -20079,15 +20021,11 @@ CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o: /home/lyudvik/C++/P
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -21430,10 +21368,7 @@ CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o: /home/lyudvik/C++/P
   /usr/include/c++/12/boost/asio/impl/write_at.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/evants/carpetsManipulation/carpetsManipulationSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/evants/carpetsManipulation/carpetsManipulationGetters.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.hpp \
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/evants/workerEvants.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/evants/carpetsManipulation/carpetsManipulation.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/evants/ordersEvants.hpp \
@@ -21654,7 +21589,6 @@ CMakeFiles/MyExecutable.dir/implement/main.cpp.o: /home/lyudvik/C++/Project/Back
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -21822,15 +21756,11 @@ CMakeFiles/MyExecutable.dir/implement/main.cpp.o: /home/lyudvik/C++/Project/Back
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -23176,10 +23106,7 @@ CMakeFiles/MyExecutable.dir/implement/main.cpp.o: /home/lyudvik/C++/Project/Back
   /home/lyudvik/C++/Project/BackendQt/includes/evantSwitch.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/evants/carpetsManipulation/carpetsManipulationSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/evants/carpetsManipulation/carpetsManipulationGetters.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.hpp \
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /usr/include/c++/12/thread \
   /usr/include/c++/12/bits/this_thread_sleep.h
 
@@ -23398,7 +23325,6 @@ CMakeFiles/MyExecutable.dir/implement/network.cpp.o: /home/lyudvik/C++/Project/B
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGetters.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -23566,15 +23492,11 @@ CMakeFiles/MyExecutable.dir/implement/network.cpp.o: /home/lyudvik/C++/Project/B
   /usr/include/c++/12/any \
   /usr/include/nlohmann/detail/macro_unscope.hpp \
   /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp \
+  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-  /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSearchers.hpp \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /home/lyudvik/C++/Project/BackendQt/includes/options.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/salaries.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/orders.hpp \
@@ -26244,16 +26166,10 @@ CMakeFiles/MyExecutable.dir/implement/time.cpp.o: /home/lyudvik/C++/Project/Back
   /usr/include/mysql/mysql_time.h \
   /usr/include/mysql/errmsg.h
 
-<<<<<<< HEAD
 CMakeFiles/MyExecutable.dir/implement/workers/workers.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/workers/workers.cpp \
   /usr/include/stdc-predef.h \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
-=======
-CMakeFiles/MyExecutable.dir/implement/workers.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/workers.cpp \
-  /usr/include/stdc-predef.h \
-  /home/lyudvik/C++/Project/BackendQt/includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
   /usr/include/cppconn/connection.h \
   /usr/include/c++/12/map \
   /usr/include/c++/12/bits/stl_tree.h \
@@ -26618,7 +26534,6 @@ CMakeFiles/MyExecutable.dir/implement/workers.cpp.o: /home/lyudvik/C++/Project/B
   /usr/include/cppconn/resultset.h \
   /usr/include/cppconn/statement.h
 
-<<<<<<< HEAD
 CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/workers/workersGetters.cpp \
   /usr/include/stdc-predef.h \
   /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp \
@@ -26851,145 +26766,9 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
   /usr/include/cppconn/resultset.h \
   /usr/include/cppconn/resultset_metadata.h \
   /usr/include/cppconn/datatype.h \
-  /usr/include/nlohmann/json.hpp \
-  /usr/include/c++/12/cstddef \
-  /usr/include/c++/12/functional \
-  /usr/include/c++/12/bits/std_function.h \
-  /usr/include/c++/12/unordered_map \
-  /usr/include/c++/12/bits/hashtable.h \
-  /usr/include/c++/12/bits/hashtable_policy.h \
-  /usr/include/c++/12/bits/enable_special_members.h \
-  /usr/include/c++/12/bits/unordered_map.h \
-  /usr/include/c++/12/vector \
-  /usr/include/c++/12/bits/stl_vector.h \
-  /usr/include/c++/12/bits/stl_bvector.h \
-  /usr/include/c++/12/bits/vector.tcc \
-  /usr/include/c++/12/array \
-  /usr/include/c++/12/compare \
-  /usr/include/c++/12/iterator \
-  /usr/include/c++/12/bits/stream_iterator.h \
-  /usr/include/c++/12/numeric \
-  /usr/include/c++/12/bits/stl_numeric.h \
-  /usr/include/c++/12/pstl/glue_numeric_defs.h \
-  /usr/include/c++/12/utility \
-  /usr/include/c++/12/bits/stl_relops.h \
-  /usr/include/nlohmann/adl_serializer.hpp \
-  /usr/include/nlohmann/detail/abi_macros.hpp \
-  /usr/include/nlohmann/detail/conversions/from_json.hpp \
-  /usr/include/c++/12/forward_list \
-  /usr/include/c++/12/bits/forward_list.h \
-  /usr/include/c++/12/bits/forward_list.tcc \
-  /usr/include/c++/12/valarray \
-  /usr/include/c++/12/cmath \
-  /usr/include/math.h \
-  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
-  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
-  /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
-  /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
-  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
-  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/c++/12/bits/specfun.h \
-  /usr/include/c++/12/limits \
-  /usr/include/c++/12/tr1/gamma.tcc \
-  /usr/include/c++/12/tr1/special_function_util.h \
-  /usr/include/c++/12/tr1/bessel_function.tcc \
-  /usr/include/c++/12/tr1/beta_function.tcc \
-  /usr/include/c++/12/tr1/ell_integral.tcc \
-  /usr/include/c++/12/tr1/exp_integral.tcc \
-  /usr/include/c++/12/tr1/hypergeometric.tcc \
-  /usr/include/c++/12/tr1/legendre_function.tcc \
-  /usr/include/c++/12/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/12/tr1/poly_hermite.tcc \
-  /usr/include/c++/12/tr1/poly_laguerre.tcc \
-  /usr/include/c++/12/tr1/riemann_zeta.tcc \
-  /usr/include/c++/12/bits/valarray_array.h \
-  /usr/include/c++/12/bits/valarray_array.tcc \
-  /usr/include/c++/12/bits/valarray_before.h \
-  /usr/include/c++/12/bits/slice_array.h \
-  /usr/include/c++/12/bits/valarray_after.h \
-  /usr/include/c++/12/bits/gslice.h \
-  /usr/include/c++/12/bits/gslice_array.h \
-  /usr/include/c++/12/bits/mask_array.h \
-  /usr/include/c++/12/bits/indirect_array.h \
-  /usr/include/nlohmann/detail/exceptions.hpp \
-  /usr/include/nlohmann/detail/value_t.hpp \
-  /usr/include/nlohmann/detail/macro_scope.hpp \
-  /usr/include/nlohmann/detail/meta/detected.hpp \
-  /usr/include/nlohmann/detail/meta/void_t.hpp \
-  /usr/include/nlohmann/thirdparty/hedley/hedley.hpp \
-  /usr/include/c++/12/version \
-  /usr/include/c++/12/cassert \
-  /usr/include/assert.h \
-  /usr/include/nlohmann/detail/string_escape.hpp \
-  /usr/include/nlohmann/detail/input/position_t.hpp \
-  /usr/include/nlohmann/detail/meta/cpp_future.hpp \
-  /usr/include/nlohmann/detail/meta/type_traits.hpp \
-  /usr/include/nlohmann/detail/iterators/iterator_traits.hpp \
-  /usr/include/nlohmann/detail/meta/call_std/begin.hpp \
-  /usr/include/nlohmann/detail/meta/call_std/end.hpp \
-  /usr/include/nlohmann/json_fwd.hpp \
-  /usr/include/nlohmann/detail/string_concat.hpp \
-  /usr/include/c++/12/cstring \
-  /usr/include/string.h \
-  /usr/include/strings.h \
-  /usr/include/nlohmann/detail/meta/identity_tag.hpp \
-  /usr/include/nlohmann/detail/meta/std_fs.hpp \
-  /usr/include/c++/12/filesystem \
-  /usr/include/c++/12/bits/fs_fwd.h \
-  /usr/include/c++/12/bits/chrono.h \
-  /usr/include/c++/12/ratio \
-  /usr/include/c++/12/ctime \
-  /usr/include/c++/12/bits/parse_numbers.h \
-  /usr/include/c++/12/bits/fs_path.h \
-  /usr/include/c++/12/locale \
-  /usr/include/c++/12/bits/locale_facets_nonio.h \
-  /usr/include/x86_64-linux-gnu/c++/12/bits/time_members.h \
-  /usr/include/x86_64-linux-gnu/c++/12/bits/messages_members.h \
-  /usr/include/libintl.h \
-  /usr/include/c++/12/bits/codecvt.h \
-  /usr/include/c++/12/bits/locale_facets_nonio.tcc \
-  /usr/include/c++/12/bits/locale_conv.h \
-  /usr/include/c++/12/iomanip \
-  /usr/include/c++/12/bits/quoted_string.h \
-  /usr/include/c++/12/sstream \
-  /usr/include/c++/12/bits/sstream.tcc \
-  /usr/include/c++/12/codecvt \
-  /usr/include/c++/12/bits/fs_dir.h \
-  /usr/include/c++/12/bits/fs_ops.h \
-  /usr/include/nlohmann/detail/conversions/to_json.hpp \
-  /usr/include/nlohmann/detail/iterators/iteration_proxy.hpp \
-  /usr/include/nlohmann/byte_container_with_subtype.hpp \
-  /usr/include/nlohmann/detail/hash.hpp \
-  /usr/include/nlohmann/detail/input/binary_reader.hpp \
-  /usr/include/nlohmann/detail/input/input_adapters.hpp \
-  /usr/include/nlohmann/detail/input/json_sax.hpp \
-  /usr/include/nlohmann/detail/input/lexer.hpp \
-  /usr/include/nlohmann/detail/meta/is_sax.hpp \
-  /usr/include/nlohmann/detail/input/parser.hpp \
-  /usr/include/nlohmann/detail/iterators/internal_iterator.hpp \
-  /usr/include/nlohmann/detail/iterators/primitive_iterator.hpp \
-  /usr/include/nlohmann/detail/iterators/iter_impl.hpp \
-  /usr/include/nlohmann/detail/iterators/json_reverse_iterator.hpp \
-  /usr/include/nlohmann/detail/json_pointer.hpp \
-  /usr/include/nlohmann/detail/json_ref.hpp \
-  /usr/include/nlohmann/detail/output/binary_writer.hpp \
-  /usr/include/nlohmann/detail/output/output_adapters.hpp \
-  /usr/include/nlohmann/detail/output/serializer.hpp \
-  /usr/include/nlohmann/detail/conversions/to_chars.hpp \
-  /usr/include/nlohmann/ordered_map.hpp \
-  /usr/include/c++/12/any \
-  /usr/include/nlohmann/detail/macro_unscope.hpp \
-  /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   /usr/include/cppconn/resultset.h \
   /usr/include/cppconn/statement.h
 
-=======
-
-/home/lyudvik/C++/Project/BackendQt/implement/workers.cpp:
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 
 /home/lyudvik/C++/Project/BackendQt/implement/time.cpp:
 
@@ -27011,11 +26790,8 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /home/lyudvik/C++/Project/BackendQt/implement/evants/complexOperationEvants.cpp:
 
-<<<<<<< HEAD
 /home/lyudvik/C++/Project/BackendQt/includes/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.hpp:
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /home/lyudvik/C++/Project/BackendQt/includes/evants/carpetsManipulation/carpetsManipulation.hpp:
 
 /usr/include/c++/12/boost/asio/impl/write_at.hpp:
@@ -27332,11 +27108,8 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/c++/12/boost/asio/ip/impl/address.hpp:
 
-<<<<<<< HEAD
 /home/lyudvik/C++/Project/BackendQt/implement/workers/workersGetters.cpp:
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/c++/12/boost/asio/ip/bad_address_cast.hpp:
 
 /usr/include/c++/12/boost/asio/is_write_buffered.hpp:
@@ -27529,11 +27302,6 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/boost/type_traits/has_dereference.hpp:
 
-<<<<<<< HEAD
-=======
-/usr/include/boost/type_traits/has_complement.hpp:
-
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/boost/type_traits/has_bit_xor_assign.hpp:
 
 /usr/include/boost/type_traits/has_bit_xor.hpp:
@@ -27606,11 +27374,8 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/boost/intrusive/detail/iterator.hpp:
 
-<<<<<<< HEAD
 /usr/include/boost/intrusive/detail/iiterator.hpp:
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/boost/intrusive/detail/list_iterator.hpp:
 
 /usr/include/c++/12/boost/asio/detail/descriptor_read_op.hpp:
@@ -27787,15 +27552,7 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/c++/12/boost/asio/detail/reactive_socket_service.hpp:
 
-<<<<<<< HEAD
 /usr/include/c++/12/boost/asio/basic_socket.hpp:
-=======
-/usr/include/c++/12/boost/asio/traits/require_member.hpp:
-
-/usr/include/c++/12/boost/asio/traits/require_free.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 
 /usr/include/boost/type_traits/is_final.hpp:
 
@@ -27929,11 +27686,8 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/boost/version.hpp:
 
-<<<<<<< HEAD
 /home/lyudvik/C++/Project/BackendQt/implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp:
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/boost/utility/string_view.hpp:
 
 /usr/include/c++/12/boost/asio/detail/impl/throw_error.ipp:
@@ -28044,32 +27798,18 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/boost/mpl/aux_/has_apply.hpp:
 
-<<<<<<< HEAD
-=======
-/usr/include/boost/intrusive/detail/iiterator.hpp:
-
-/home/lyudvik/C++/Project/BackendQt/includes/workers.hpp:
-
-/usr/include/nlohmann/ordered_map.hpp:
-
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/c++/12/boost/asio/detail/scoped_ptr.hpp:
 
 /usr/include/boost/smart_ptr/detail/sp_counted_impl.hpp:
 
 /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsGetters.cpp:
 
-<<<<<<< HEAD
 /usr/include/boost/mpl/int_fwd.hpp:
 
 /usr/include/nlohmann/detail/macro_unscope.hpp:
 
 /usr/include/nlohmann/ordered_map.hpp:
 
-=======
-/usr/include/nlohmann/detail/macro_unscope.hpp:
-
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/boost/beast/http/impl/rfc7230.hpp:
 
 /usr/include/boost/operators.hpp:
@@ -28112,15 +27852,12 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/boost/beast/core/error.hpp:
 
-<<<<<<< HEAD
 /usr/include/boost/type_traits/has_complement.hpp:
 
 /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsGettersForAdmin.cpp:
 
 /usr/include/mysql_driver.h:
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/nlohmann/detail/meta/is_sax.hpp:
 
 /usr/include/boost/intrusive/detail/tree_iterator.hpp:
@@ -28179,13 +27916,10 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/nlohmann/detail/exceptions.hpp:
 
-<<<<<<< HEAD
 /usr/include/c++/12/boost/asio/socket_base.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/boost/is_placeholder.hpp:
 
 /usr/include/wchar.h:
@@ -28272,13 +28006,10 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/boost/preprocessor/punctuation/comma_if.hpp:
 
-<<<<<<< HEAD
 /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
 
 /usr/include/c++/12/boost/asio/traits/require_free.hpp:
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/boost/beast/core.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/math-vector.h:
@@ -28299,11 +28030,6 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/x86_64-linux-gnu/bits/posix_opt.h:
 
-<<<<<<< HEAD
-=======
-/usr/include/mysql_driver.h:
-
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/x86_64-linux-gnu/c++/12/bits/atomic_word.h:
 
 /usr/include/boost/type_traits/has_bit_and_assign.hpp:
@@ -28474,11 +28200,6 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/x86_64-linux-gnu/sys/select.h:
 
-<<<<<<< HEAD
-=======
-/usr/include/c++/12/boost/asio/basic_socket.hpp:
-
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/c++/12/bits/range_access.h:
 
 /usr/include/boost/intrusive/link_mode.hpp:
@@ -28933,11 +28654,6 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/features-time64.h:
 
-<<<<<<< HEAD
-=======
-/usr/include/c++/12/boost/asio/traits/prefer_member.hpp:
-
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/boost/core/data.hpp:
 
 /usr/include/nlohmann/detail/iterators/primitive_iterator.hpp:
@@ -29098,11 +28814,8 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/linux/errno.h:
 
-<<<<<<< HEAD
 /home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsGettersForAdmin.hpp:
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h:
 
 /usr/include/mysql/errmsg.h:
@@ -29351,18 +29064,7 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/mysql/plugin_auth_common.h:
 
-<<<<<<< HEAD
 /home/lyudvik/C++/Project/BackendQt/includes/workers/workersGetters.hpp:
-
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
-/usr/include/cppconn/config.h:
-
-/usr/include/c++/12/boost/asio/detail/strand_executor_service.hpp:
-
-/home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp:
-
-/usr/include/boost/preprocessor/control/while.hpp:
 
 /usr/include/c++/12/boost/asio/execution/invocable_archetype.hpp:
 
@@ -29440,11 +29142,8 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
 
-<<<<<<< HEAD
 /home/lyudvik/C++/Project/BackendQt/includes/workers/workers.hpp:
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/c++/12/bits/algorithmfwd.h:
 
 /usr/include/c++/12/boost/asio/ip/tcp.hpp:
@@ -29469,13 +29168,18 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/cppconn/statement.h:
 
-<<<<<<< HEAD
+/usr/include/c++/12/boost/asio/detail/strand_executor_service.hpp:
+
+/home/lyudvik/C++/Project/BackendQt/includes/carpets/carpetsSetters.hpp:
+
+/usr/include/boost/preprocessor/control/while.hpp:
+
+/usr/include/cppconn/config.h:
+
 /usr/include/c++/12/boost/asio/traits/prefer_member.hpp:
 
 /usr/include/c++/12/boost/asio/traits/require_member.hpp:
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/c++/12/boost/asio/query.hpp:
 
 /usr/include/c++/12/version:
@@ -30326,22 +30030,14 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 
 /usr/include/boost/preprocessor/punctuation/comma.hpp:
 
-<<<<<<< HEAD
 /home/lyudvik/C++/Project/BackendQt/implement/workers/workers.cpp:
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/boost/type_traits/has_negate.hpp:
 
 /usr/include/boost/mpl/aux_/na_fwd.hpp:
 
 /usr/include/boost/mpl/aux_/config/ctps.hpp:
 
-<<<<<<< HEAD
-=======
-/usr/include/boost/mpl/int_fwd.hpp:
-
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 /usr/include/boost/mpl/aux_/config/nttp.hpp:
 
 /usr/include/c++/12/boost/asio/ip/network_v4.hpp:
@@ -30593,10 +30289,3 @@ CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o: /home/lyudvi
 /usr/include/c++/12/boost/asio/buffer.hpp:
 
 /usr/include/boost/type_traits/make_void.hpp:
-<<<<<<< HEAD
-=======
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
-
-/usr/include/c++/12/boost/asio/socket_base.hpp:
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10

@@ -177,7 +177,6 @@ implement/carpets/carpetsGetters.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.s
 .PHONY : implement/carpets/carpetsGetters.cpp.s
 
-<<<<<<< HEAD
 implement/carpets/carpetsGettersForAdmin.o: implement/carpets/carpetsGettersForAdmin.cpp.o
 .PHONY : implement/carpets/carpetsGettersForAdmin.o
 
@@ -202,8 +201,6 @@ implement/carpets/carpetsGettersForAdmin.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGettersForAdmin.cpp.s
 .PHONY : implement/carpets/carpetsGettersForAdmin.cpp.s
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 implement/carpets/carpetsSearchers.o: implement/carpets/carpetsSearchers.cpp.o
 .PHONY : implement/carpets/carpetsSearchers.o
 
@@ -348,7 +345,6 @@ implement/evants/carpetsManipulation/carpetsManipulationGetters.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGetters.cpp.s
 .PHONY : implement/evants/carpetsManipulation/carpetsManipulationGetters.cpp.s
 
-<<<<<<< HEAD
 implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.o: implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp.o
 .PHONY : implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.o
 
@@ -373,8 +369,6 @@ implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp.s
 .PHONY : implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp.s
 
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 implement/evants/carpetsManipulation/carpetsManipulationSetters.o: implement/evants/carpetsManipulation/carpetsManipulationSetters.cpp.o
 .PHONY : implement/evants/carpetsManipulation/carpetsManipulationSetters.o
 
@@ -687,7 +681,6 @@ implement/time.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/implement/time.cpp.s
 .PHONY : implement/time.cpp.s
 
-<<<<<<< HEAD
 implement/workers/workers.o: implement/workers/workers.cpp.o
 .PHONY : implement/workers/workers.o
 
@@ -735,31 +728,6 @@ implement/workers/workersGetters.s: implement/workers/workersGetters.cpp.s
 implement/workers/workersGetters.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.s
 .PHONY : implement/workers/workersGetters.cpp.s
-=======
-implement/workers.o: implement/workers.cpp.o
-.PHONY : implement/workers.o
-
-# target to build an object file
-implement/workers.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/implement/workers.cpp.o
-.PHONY : implement/workers.cpp.o
-
-implement/workers.i: implement/workers.cpp.i
-.PHONY : implement/workers.i
-
-# target to preprocess a source file
-implement/workers.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/implement/workers.cpp.i
-.PHONY : implement/workers.cpp.i
-
-implement/workers.s: implement/workers.cpp.s
-.PHONY : implement/workers.s
-
-# target to generate assembly for a file
-implement/workers.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/implement/workers.cpp.s
-.PHONY : implement/workers.cpp.s
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 
 # Help Target
 help:
@@ -776,12 +744,9 @@ help:
 	@echo "... implement/carpets/carpetsGetters.o"
 	@echo "... implement/carpets/carpetsGetters.i"
 	@echo "... implement/carpets/carpetsGetters.s"
-<<<<<<< HEAD
 	@echo "... implement/carpets/carpetsGettersForAdmin.o"
 	@echo "... implement/carpets/carpetsGettersForAdmin.i"
 	@echo "... implement/carpets/carpetsGettersForAdmin.s"
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	@echo "... implement/carpets/carpetsSearchers.o"
 	@echo "... implement/carpets/carpetsSearchers.i"
 	@echo "... implement/carpets/carpetsSearchers.s"
@@ -800,12 +765,9 @@ help:
 	@echo "... implement/evants/carpetsManipulation/carpetsManipulationGetters.o"
 	@echo "... implement/evants/carpetsManipulation/carpetsManipulationGetters.i"
 	@echo "... implement/evants/carpetsManipulation/carpetsManipulationGetters.s"
-<<<<<<< HEAD
 	@echo "... implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.o"
 	@echo "... implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.i"
 	@echo "... implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.s"
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	@echo "... implement/evants/carpetsManipulation/carpetsManipulationSetters.o"
 	@echo "... implement/evants/carpetsManipulation/carpetsManipulationSetters.i"
 	@echo "... implement/evants/carpetsManipulation/carpetsManipulationSetters.s"
@@ -845,18 +807,12 @@ help:
 	@echo "... implement/time.o"
 	@echo "... implement/time.i"
 	@echo "... implement/time.s"
-<<<<<<< HEAD
 	@echo "... implement/workers/workers.o"
 	@echo "... implement/workers/workers.i"
 	@echo "... implement/workers/workers.s"
 	@echo "... implement/workers/workersGetters.o"
 	@echo "... implement/workers/workersGetters.i"
 	@echo "... implement/workers/workersGetters.s"
-=======
-	@echo "... implement/workers.o"
-	@echo "... implement/workers.i"
-	@echo "... implement/workers.s"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 .PHONY : help
 
 

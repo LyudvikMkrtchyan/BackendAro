@@ -171,10 +171,8 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o: \
  /usr/include/mysql/client_plugin.h /usr/include/c++/12/stdlib.h \
  /usr/include/mysql/plugin_auth_common.h \
  /usr/include/mysql/mysql_version.h /usr/include/mysql/mysql_time.h \
- /usr/include/mysql/errmsg.h \
- /home/lyudvik/C++/Project/BackendQt/implement/carpets/../../includes/carpets/carpetsSetters.hpp \
- /usr/include/cppconn/connection.h /usr/include/c++/12/map \
- /usr/include/c++/12/bits/stl_tree.h \
+ /usr/include/mysql/errmsg.h /usr/include/cppconn/connection.h \
+ /usr/include/c++/12/map /usr/include/c++/12/bits/stl_tree.h \
  /usr/include/c++/12/ext/aligned_buffer.h \
  /usr/include/c++/12/bits/node_handle.h \
  /usr/include/c++/12/bits/stl_map.h /usr/include/c++/12/tuple \

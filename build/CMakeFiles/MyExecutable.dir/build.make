@@ -111,7 +111,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipula
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationSetters.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lyudvik/C++/Project/BackendQt/implement/evants/carpetsManipulation/carpetsManipulationSetters.cpp -o CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationSetters.cpp.s
 
-<<<<<<< HEAD
 CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp
 CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
@@ -130,12 +129,6 @@ CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.
 CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/evants/financeEvants/financeGettersEvants.cpp
 CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o"
-=======
-CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/evants/financeEvants/financeGettersEvants.cpp
-CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/evants/financeEvants/financeGettersEvants.cpp
 
 CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.i: cmake_force
@@ -149,11 +142,7 @@ CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.
 CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/evants/workerEvants.cpp
 CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/evants/workerEvants.cpp
 
 CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.i: cmake_force
@@ -167,11 +156,7 @@ CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/evants/ordersEvants.cpp
 CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/evants/ordersEvants.cpp
 
 CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.i: cmake_force
@@ -185,11 +170,7 @@ CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/evants/optionsEvants.cpp
 CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/evants/optionsEvants.cpp
 
 CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.i: cmake_force
@@ -203,11 +184,7 @@ CMakeFiles/MyExecutable.dir/implement/evants/optionsEvants.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/evants/complexOperationEvants.cpp
 CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/evants/complexOperationEvants.cpp
 
 CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.i: cmake_force
@@ -221,11 +198,7 @@ CMakeFiles/MyExecutable.dir/implement/evants/complexOperationEvants.cpp.s: cmake
 CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/dataBase.cpp
 CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/dataBase.cpp
 
 CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.i: cmake_force
@@ -239,11 +212,7 @@ CMakeFiles/MyExecutable.dir/implement/dataBase.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/orders.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/orders.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/orders.cpp
 CMakeFiles/MyExecutable.dir/implement/orders.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/MyExecutable.dir/implement/orders.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/MyExecutable.dir/implement/orders.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/orders.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/orders.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/orders.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/orders.cpp
 
 CMakeFiles/MyExecutable.dir/implement/orders.cpp.i: cmake_force
@@ -257,11 +226,7 @@ CMakeFiles/MyExecutable.dir/implement/orders.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/evantSwitch.cpp
 CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/evantSwitch.cpp
 
 CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.i: cmake_force
@@ -275,11 +240,7 @@ CMakeFiles/MyExecutable.dir/implement/evantSwitch.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/helperFunctions.cpp
 CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/helperFunctions.cpp
 
 CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.i: cmake_force
@@ -293,11 +254,7 @@ CMakeFiles/MyExecutable.dir/implement/helperFunctions.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/main.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/main.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/main.cpp
 CMakeFiles/MyExecutable.dir/implement/main.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/MyExecutable.dir/implement/main.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/MyExecutable.dir/implement/main.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/main.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/main.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/main.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/main.cpp
 
 CMakeFiles/MyExecutable.dir/implement/main.cpp.i: cmake_force
@@ -311,11 +268,7 @@ CMakeFiles/MyExecutable.dir/implement/main.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/network.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/network.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/network.cpp
 CMakeFiles/MyExecutable.dir/implement/network.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/MyExecutable.dir/implement/network.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/MyExecutable.dir/implement/network.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/network.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/network.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/network.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/network.cpp
 
 CMakeFiles/MyExecutable.dir/implement/network.cpp.i: cmake_force
@@ -329,11 +282,7 @@ CMakeFiles/MyExecutable.dir/implement/network.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpets.cpp
 CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpets.cpp
 
 CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.i: cmake_force
@@ -347,11 +296,7 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsGetters.cpp
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsGetters.cpp
 
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.i: cmake_force
@@ -365,11 +310,7 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsSetters.cpp
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsSetters.cpp
 
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.i: cmake_force
@@ -383,11 +324,7 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsSearchers.cpp
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsSearchers.cpp
 
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.i: cmake_force
@@ -398,7 +335,6 @@ CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsSearchers.cpp -o CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.s
 
-<<<<<<< HEAD
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGettersForAdmin.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGettersForAdmin.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/carpets/carpetsGettersForAdmin.cpp
 CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGettersForAdmin.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
@@ -445,12 +381,6 @@ CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o: CMakeFiles/MyExecutable.di
 CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/salaries.cpp
 CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o"
-=======
-CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/salaries.cpp
-CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/salaries.cpp
 
 CMakeFiles/MyExecutable.dir/implement/salaries.cpp.i: cmake_force
@@ -461,31 +391,10 @@ CMakeFiles/MyExecutable.dir/implement/salaries.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/implement/salaries.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lyudvik/C++/Project/BackendQt/implement/salaries.cpp -o CMakeFiles/MyExecutable.dir/implement/salaries.cpp.s
 
-<<<<<<< HEAD
 CMakeFiles/MyExecutable.dir/implement/options.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/options.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/options.cpp
 CMakeFiles/MyExecutable.dir/implement/options.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/MyExecutable.dir/implement/options.cpp.o"
-=======
-CMakeFiles/MyExecutable.dir/implement/workers.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/implement/workers.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/workers.cpp
-CMakeFiles/MyExecutable.dir/implement/workers.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/MyExecutable.dir/implement/workers.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/workers.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/workers.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/workers.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/workers.cpp
-
-CMakeFiles/MyExecutable.dir/implement/workers.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyExecutable.dir/implement/workers.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lyudvik/C++/Project/BackendQt/implement/workers.cpp > CMakeFiles/MyExecutable.dir/implement/workers.cpp.i
-
-CMakeFiles/MyExecutable.dir/implement/workers.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyExecutable.dir/implement/workers.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lyudvik/C++/Project/BackendQt/implement/workers.cpp -o CMakeFiles/MyExecutable.dir/implement/workers.cpp.s
-
-CMakeFiles/MyExecutable.dir/implement/options.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
-CMakeFiles/MyExecutable.dir/implement/options.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/options.cpp
-CMakeFiles/MyExecutable.dir/implement/options.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/MyExecutable.dir/implement/options.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/options.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/options.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/options.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/options.cpp
 
 CMakeFiles/MyExecutable.dir/implement/options.cpp.i: cmake_force
@@ -499,11 +408,7 @@ CMakeFiles/MyExecutable.dir/implement/options.cpp.s: cmake_force
 CMakeFiles/MyExecutable.dir/implement/time.cpp.o: CMakeFiles/MyExecutable.dir/flags.make
 CMakeFiles/MyExecutable.dir/implement/time.cpp.o: /home/lyudvik/C++/Project/BackendQt/implement/time.cpp
 CMakeFiles/MyExecutable.dir/implement/time.cpp.o: CMakeFiles/MyExecutable.dir/compiler_depend.ts
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/MyExecutable.dir/implement/time.cpp.o"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/MyExecutable.dir/implement/time.cpp.o"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyExecutable.dir/implement/time.cpp.o -MF CMakeFiles/MyExecutable.dir/implement/time.cpp.o.d -o CMakeFiles/MyExecutable.dir/implement/time.cpp.o -c /home/lyudvik/C++/Project/BackendQt/implement/time.cpp
 
 CMakeFiles/MyExecutable.dir/implement/time.cpp.i: cmake_force
@@ -519,10 +424,7 @@ MyExecutable_OBJECTS = \
 "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulation.cpp.o" \
 "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGetters.cpp.o" \
 "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationSetters.cpp.o" \
-<<<<<<< HEAD
 "CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp.o" \
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 "CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o" \
 "CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o" \
 "CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o" \
@@ -538,15 +440,10 @@ MyExecutable_OBJECTS = \
 "CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o" \
 "CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.o" \
 "CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o" \
-<<<<<<< HEAD
 "CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGettersForAdmin.cpp.o" \
 "CMakeFiles/MyExecutable.dir/implement/workers/workers.cpp.o" \
 "CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o" \
 "CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o" \
-=======
-"CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o" \
-"CMakeFiles/MyExecutable.dir/implement/workers.cpp.o" \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 "CMakeFiles/MyExecutable.dir/implement/options.cpp.o" \
 "CMakeFiles/MyExecutable.dir/implement/time.cpp.o"
 
@@ -556,10 +453,7 @@ MyExecutable_EXTERNAL_OBJECTS =
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulation.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGetters.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationSetters.cpp.o
-<<<<<<< HEAD
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/evants/carpetsManipulation/carpetsManipulationGettersForAdmin.cpp.o
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/evants/financeEvants/financeGettersEvants.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/evants/workerEvants.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/evants/ordersEvants.cpp.o
@@ -575,24 +469,15 @@ MyExecutable: CMakeFiles/MyExecutable.dir/implement/carpets/carpets.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGetters.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSetters.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/carpets/carpetsSearchers.cpp.o
-<<<<<<< HEAD
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/carpets/carpetsGettersForAdmin.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/workers/workers.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/workers/workersGetters.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o
-=======
-MyExecutable: CMakeFiles/MyExecutable.dir/implement/salaries.cpp.o
-MyExecutable: CMakeFiles/MyExecutable.dir/implement/workers.cpp.o
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/options.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/implement/time.cpp.o
 MyExecutable: CMakeFiles/MyExecutable.dir/build.make
 MyExecutable: CMakeFiles/MyExecutable.dir/link.txt
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable MyExecutable"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lyudvik/C++/Project/BackendQt/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable MyExecutable"
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MyExecutable.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

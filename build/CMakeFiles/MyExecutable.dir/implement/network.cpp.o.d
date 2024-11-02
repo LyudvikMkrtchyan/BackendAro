@@ -175,7 +175,6 @@ CMakeFiles/MyExecutable.dir/implement/network.cpp.o: \
  /usr/include/mysql/mysql_version.h /usr/include/mysql/mysql_time.h \
  /usr/include/mysql/errmsg.h \
  /home/lyudvik/C++/Project/BackendQt/implement/../includes/./carpets/carpetsGetters.hpp \
- /home/lyudvik/C++/Project/BackendQt/implement/../includes/./carpets/carpetsSetters.hpp \
  /usr/include/cppconn/connection.h /usr/include/c++/12/map \
  /usr/include/c++/12/bits/stl_tree.h \
  /usr/include/c++/12/ext/aligned_buffer.h \
@@ -312,15 +311,11 @@ CMakeFiles/MyExecutable.dir/implement/network.cpp.o: \
  /usr/include/nlohmann/ordered_map.hpp /usr/include/c++/12/any \
  /usr/include/nlohmann/detail/macro_unscope.hpp \
  /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
-<<<<<<< HEAD
  /home/lyudvik/C++/Project/BackendQt/implement/../includes/./carpets/carpetsGettersForAdmin.hpp \
+ /home/lyudvik/C++/Project/BackendQt/implement/../includes/./carpets/carpetsSetters.hpp \
  /home/lyudvik/C++/Project/BackendQt/implement/../includes/./carpets/carpetsSearchers.hpp \
  /home/lyudvik/C++/Project/BackendQt/implement/../includes/./workers/workers.hpp \
  /home/lyudvik/C++/Project/BackendQt/implement/../includes/./workers/workersGetters.hpp \
-=======
- /home/lyudvik/C++/Project/BackendQt/implement/../includes/./carpets/carpetsSearchers.hpp \
- /home/lyudvik/C++/Project/BackendQt/implement/../includes/workers.hpp \
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
  /home/lyudvik/C++/Project/BackendQt/implement/../includes/options.hpp \
  /home/lyudvik/C++/Project/BackendQt/implement/../includes/salaries.hpp \
  /home/lyudvik/C++/Project/BackendQt/implement/../includes/orders.hpp \

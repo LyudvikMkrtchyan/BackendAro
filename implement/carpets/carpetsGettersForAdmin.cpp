@@ -3,7 +3,6 @@
 #include <cppconn/prepared_statement.h>
 #include <cppconn/resultset.h>
 #include <memory>
-#include <unordered_map>
 
 CarpetsGettersForAdmin::CarpetsGettersForAdmin(sql::Connection* conn): connection(conn){};
 

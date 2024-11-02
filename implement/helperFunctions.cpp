@@ -12,10 +12,8 @@
 
 void evantSwitchInitalaiz(EvantSwitch &evantsMap){
     evantSwitchInitalaizCarpetsManipulationGetters(evantsMap);
-<<<<<<< HEAD
+
     evantSwitchInitalaizCarpetsManipulationGettersForAdmin(evantsMap);
-=======
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
     evantSwitchInitalaizCarpetsManipulationSetters(evantsMap);
     
     

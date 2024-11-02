@@ -31,15 +31,13 @@ void getWashedCarpets(const request& req, response& res , DataBase& db){
 void getTodayWashedCarpets(const request& req, response& res , DataBase& db){
     std::cout << "Get todays Washed Carpets is runned" << std::endl;
     nlohmann::json answerJson;
-<<<<<<< HEAD
+
     std::string todayDate = Time().getTodaysDate();
     answerJson = db.getWashedCarpetsWithDay(todayDate);
-=======
 
-    answerJson = db.getTodaysWashedCarpets();
->>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
-    std::cout << answerJson.dump(4) << std::endl;
-       if(!answerJson.empty()){
+
+   
+    if(!answerJson.empty()){
         res.result(boost::beast::http::status::ok);
     }else{
         res.result(boost::beast::http::status::unauthorized);
