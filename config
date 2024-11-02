@@ -1,0 +1,63 @@
+table Carpet {
+id                     = int               = auto_increment 
+address                = varchar(255) //Հասցե 
+entrance               = varchar(10) // Մուտք
+phone_number           = varchar(50) // Հեռախոսահամար
+floor                  = varchar(10) // Հարկ
+flat                   = varchar(10) // Բնակարան
+pickup_date            = date        // Ստացման ամսաթիվ
+id_delivery_to_washing = int         // Դեպի լվացման առաքողի իդ
+id_delivery_to_home    = int         // Դեպի տուն առաքովի իդ
+wash_date              = date        // Լվացման ամսաթիվ
+delivery_date          = date        // Առաքման ամսաթիվ
+washer                 = int         // Լվացող 
+surface                = double      // Մակերես
+price                  = double      // Գին
+status                 = enum(dirty, clean) default dirty // Կարգավիճակ
+code                   = int         // Կոդ
+desired_date           = date        // Ցանկալի ամսաթիվ
+location               = enum(abovyan, other) // Տեղանքը 
+delivery_time          = time         // Առաքման ժամ
+}
+table Workers{
+    id       = int 
+    login    = varchar(50)                  |
+    password = varchar(255)
+    name     = varchar(50)  
+    surname  = varchar(50)
+    phone    = varchar(20)  
+    role     = varchar(50) 
+    salary   = int  
+}
+table Finances {
+    id = int
+    worker_id = int
+    amount = decimal
+    transaction_type =  transaction types {
+                            salary = varchar(10) //աշխատավարձ
+                            bonus = varchar(10) //բոնուս
+                        }
+    transaction_date = date
+    description = text 
+}
+status carpet{
+    readyToTake        = varchar(10) // պատրաստ է առաքման
+    dirty              = varchar(10) // կեղտոտ
+    washing            = varchar(10)// լվացվում է
+    clean              = varchar(10) // մաքուր
+    read_for_delivery = varchar(10) // պատրաստ է առաքման
+    inDelivery         = varchar(10) // առաքման մեջ
+    delivered          = varchar(10) // առաքված է
+    
+}
+
+worker type{
+    administrator = //ադմինիստրատօր
+    washer = // Լվացող
+    manager = // մենեջեր
+    courier = // առաքիչ
+}
+<<<<<<< HEAD
+2024-10-31
+=======
+>>>>>>> f454e2f15b0011818af90f5d6e6a46eda2bd2d10
